@@ -1,0 +1,38 @@
+{
+  "name": "array-random-shuffle",
+  "version": "0.0.1",
+  "description": "Randomize the order of array items",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.1.1"
+  },
+  "scripts": {
+    "run": "grunt run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharathvaj1995/array-random-shuffle.git"
+  },
+  "keywords": [
+    "array",
+    "arr",
+    "list",
+    "shuffle",
+    "sort",
+    "random",
+    "rand",
+    "latest"
+  ],
+  "author": "Bharathvaj Ganesan <bharathvaj1995@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bharathvaj1995/array-random-shuffle/issues"
+  },
+  "homepage": "https://github.com/bharathvaj1995/array-random-shuffle#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jasmine": "^1.1.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-template-jasmine-requirejs": "^0.2.3"
+  }
+}
