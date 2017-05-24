@@ -3,3 +3,4 @@ node_modules
 Gruntfile.js
 spec.js
 require.js
+dummy.js
