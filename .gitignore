@@ -1,6 +1,5 @@
 node_modules
 .grunt
-Gruntfile.js
 spec.js
 require.js
 dummy.js
